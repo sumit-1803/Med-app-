@@ -1,0 +1,156 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+}
+.top{
+    width: 100%;
+    background-color: #002647;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.top1{
+    display: flex;
+    justify-content: left;
+    margin-left: 15px;
+    
+}
+.icon{
+    height: 35px;
+    margin-top: 7px;
+    width: 35px;
+}
+.view{
+    margin-top: 10px;
+    margin-left: 9px;
+}
+.grey{
+    width: 100%;
+    margin-top: 8px;
+    background-color: #7d7d7d;
+    height: 1px;
+}
+.name{
+    display: flex;
+    justify-content: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+    align-items: center;
+    width: 80%;
+}
+.contain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.profile{
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 50px;
+    height: 50px;
+}
+.id{
+    font-weight: bold;
+    display: flex;
+    justify-content: left;
+    margin-left: 20px;
+    font-weight: bold;
+    align-items: center;
+    width: 80%;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  background-color: #002647;
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.container {
+  padding: 2px 16px;
+  margin: 15px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+}
+.progress{
+    margin-left: 40px;
+    margin-bottom: 15px;
+    width: 190px;
+    height: 100px;
+}
+.emg{
+    margin: 0px 20px ;
+    width: 80px;
+    height: 110px;
+}
+
+.phone{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+.logo{
+    width: 15px;
+    height: 15px;
+    margin-left: 140px;
+}
+.logo0{
+    width: 15px;
+    height: 15px;
+    margin-right: 0px;
+    margin-left: 10px;
+
+}
+.phno0{
+    margin-left:-15px;
+}
+.phno{
+    margin-left:2px;
+}
+.num0{
+    font-size: 10px;
+}
+.phno1{
+    margin-left: -5px;
+}
+.phno2{
+    margin-left: 11px;
+}
+.icon1{
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+}
+.view1{
+    margin-top: 20px;
+    font-weight: 50;
+    font-size: medium;
+    width: 150px;
+    font-weight: bolder;
+    color: #002647;
+}
+p{
+    margin-top: 15px;
+    padding: 5px;
+}
+footer{
+        margin-top: auto;
+}
+.black{
+    background-color: #000000;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.hi{
+    height: 35px;
+    border-radius: 0px;
+}
